@@ -3,8 +3,9 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 10 L03 GitHub related
-ZCZC W00 15 L04 GitHub pages: create new page
 ZCZC W00 30 L05 GSGS related
-ZCZC W00 80 L02 ZOOM related
+ZCZC W00 15 L23 Discord: joining the server
 ZCZC W00 10 L11 Assignment #1
 ZCZC W00 10 L12 Assignment #2
+ZCZC W00 15 L04 Assignment #3
+ZCZC W00 90 L02 ZOOM: first meeting
