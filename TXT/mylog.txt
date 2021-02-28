@@ -9,3 +9,5 @@ ZCZC W00 10 L11 Assignment #1
 ZCZC W00 10 L12 Assignment #2
 ZCZC W00 15 L04 Assignment #3
 ZCZC W00 90 L02 ZOOM: first meeting
+ZCZC W00 180 L06 Reading References/Books/Documents
+ZCZC W00 10 L04 GitHub Pages: add index.md
