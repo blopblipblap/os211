@@ -14,8 +14,8 @@
 }
 
 .plainclass1 {
-  color:            #95adbe;
-  background-color: #4f3a65;
+  color:            #dff0ea;
+  background-color: #342642;
 }
 
 .container {
@@ -27,11 +27,11 @@
 }
 
 .container a {
-  color: #95adbe;
+  color: #dff0ea;
 }
 
 .container a:hover {
-  color: #dff0ea;
+  color: #95adbe;
 }
 
 .row {
@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #dff0ea;
+  background:       #95adbe;
   height:           130px;
   width:            100%;
   padding-top:      10px;
