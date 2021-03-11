@@ -1,8 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
-# Week 0
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 30 L05 GSGS related
 ZCZC W00 15 L23 Discord: joining the server
@@ -12,8 +10,6 @@ ZCZC W00 15 L13 Assignment #3
 ZCZC W00 90 L02 ZOOM: first meeting
 ZCZC W00 180 L06 Reading References/Books/Documents
 ZCZC W00 10 L04 GitHub Pages: add index.md
-
-# Week 1
 ZCZC W01 15 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 210 L11 Assignment #1 
 ZCZC W01 90 L05 GSGS related
