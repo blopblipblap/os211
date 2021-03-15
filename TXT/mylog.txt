@@ -37,3 +37,4 @@ ZCZC W02 20 L21 VirtualBox: trying to learn bash aliases
 ZCZC W02 1 L18 Assignment #8
 ZCZC W02 5 L19 Assignment #9
 ZCZC W02 5 L20 Assignment #10
+ZCZC W02 5 L16 Assignment #6
