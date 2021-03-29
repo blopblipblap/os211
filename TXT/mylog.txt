@@ -50,3 +50,14 @@ ZCZC W03 20 L18 Assignment #8: Update bash script
 ZCZC W03 3 L19 Assignment #9: Make SHA256SUM and sign it
 ZCZC W03 150 L05 GSGS related
 ZCZC W03 90 L06 Reading References/Books/Documents
+ZCZC W04 90 L02 ZOOM related: fifth meeting
+ZCZC W04 90 L11 Assignment #1: Read OSC-10 (chapter 9)
+ZCZC W04 60 L12 Assignment #2: Try demos week 04
+ZCZC W04 5 L13 Assignment #3: Review Last Week TOP 10 List
+ZCZC W04 50 L14 Assignment #4: Create TOP 10 List Week 04
+ZCZC W04 5 L15 Assignment #5: Update log
+ZCZC W04 15 L16 Assignment #6: Download tar
+ZCZC W04 5 L17 Assignment #7: Update bash script
+ZCZC W04 5 L18 Assignment #8: Make SHA256SUM and sign it
+ZCZC W04 180 L05 GSGS Related
+ZCZC W04 120 L06 Reading References/Books/Documents
