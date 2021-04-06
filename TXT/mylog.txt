@@ -61,3 +61,15 @@ ZCZC W04 5 L17 Assignment #7: Update bash script
 ZCZC W04 5 L18 Assignment #8: Make SHA256SUM and sign it
 ZCZC W04 180 L05 GSGS Related
 ZCZC W04 120 L06 Reading References/Books/Documents
+ZCZC W05 90 L11 Assignment #1: Read OSC10 chapter 10
+ZCZC W05 10 L12 Assignment #2: Review Last Week TOP 10 List
+ZCZC W05 60 L13 Assignment #3: Create TOP 10 List of Week 05
+ZCZC W05 15 L14 Assignment #4: Download tar
+ZCZC W05 10 L15 Assignment #5: Update log
+ZCZC W05 5 L16 Assignment #6: Make SHA256SUM and sign it
+ZCZC W05 90 L02 ZOOM related: sixth meeting
+ZCZC W05 150 L05 GSGS related
+ZCZC W05 60 L21 VirtualBox: Set the lowest RAM possible and screenshot it
+ZCZC W05 15 L21 VirtualBox: Set TOP
+ZCZC W05 20 L07 Demo related: Try Demo Week 05
+ZCZC W05 30 L01 SCELE related: Do QUIZ W05 Q02 Special
