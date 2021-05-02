@@ -83,3 +83,16 @@ ZCZC W06 5 L16 Assignment #6: Make SHA256SUM and sign it
 ZCZC W06 120 L05 GSGS Related
 ZCZC W06 20 L07 Demo related: Try Demo Week 06
 ZCZC W06 60 L06 Reading References/Books/Documents
+ZCZC W07 90 L02 ZOOM related: eighth meeting
+ZCZC W07 120 L11 Assignment #1: Read OSC10 chapter 06, 07, dan 08
+ZCZC W07 10 L12 Assignment #2: Review Last Week TOP 10 List
+ZCZC W07 90 L13 Assignment #3: Create TOP 10 List of Week 07
+ZCZC W07 60 L14 Assignment #4: Download TAR and make necessary documents
+ZCZC W07 10 L15 Assignment #5: Update log
+ZCZC W07 5 L16 Assignment #6: Make SHA256SUM and sign it
+ZCZC W07 20 L07 Demo related: Try Demo Week 07
+ZCZC W07 10 L07 Demo related: Try Demo Week 08
+ZCZC W07 20 L01 SCELE related: Quiz W07
+ZCZC W07 30 L06 Reading References/Books/Documents
+ZCZC W07 5 L09 AsDos: Demo Week 07 (Virtual Box and login)
+ZCZC W07 150 L05 GSGS Related
