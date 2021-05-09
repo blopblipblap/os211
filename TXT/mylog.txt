@@ -96,3 +96,15 @@ ZCZC W07 20 L01 SCELE related: Quiz W07
 ZCZC W07 30 L06 Reading References/Books/Documents
 ZCZC W07 5 L09 AsDos: Demo Week 07 (Virtual Box and login)
 ZCZC W07 150 L05 GSGS Related
+ZCZC W08 90 L02 ZOOM related: ninth meeting
+ZCZC W08 90 L11 Assignment #1: Read OSC10 chapter 05
+ZCZC W08 10 L12 Assignment #2: Review Last Week TOP 10 List
+ZCZC W08 90 L13 Assignment #3: building LFS
+ZCZC W08 30 L14 Assignment #4: Place the result
+ZCZC W08 10 L15 Assignment #5: Update log
+ZCZC W08 10 L16 Assignment #6: Make SHA256SUM and sign it
+ZCZC W08 150 L05 GSGS Related
+ZCZC W08 20 L01 SCELE related: POP QUIZ W08
+ZCZC W08 30 L01 SCELE related: POP QUIZ from Mr. RMS
+ZCZC W08 90 L17 Assignment #7: Make TOP 10 of Week 08
+ZCZC W08 30 L06 Reading References/Books/Documents
