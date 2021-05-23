@@ -108,3 +108,14 @@ ZCZC W08 20 L01 SCELE related: POP QUIZ W08
 ZCZC W08 30 L01 SCELE related: POP QUIZ from Mr. RMS
 ZCZC W08 90 L17 Assignment #7: Make TOP 10 of Week 08
 ZCZC W08 30 L06 Reading References/Books/Documents
+ZCZC W09 90 L12 ZOOM related: tenth meeting
+ZCZC W09 60 L11 Assignment #1: Read OSC10 chapter 11
+ZCZC W09 10 L12 Assignment #2: Review Last Week TOP 10 List
+ZCZC W09 90 L13 Assignment #3: Create TOP 10 List of Week 09
+ZCZC W09 240 L14 Assignment #4: LFS chapter 5-7
+ZCZC W09 10 L15 Assignment #5: Tarball report
+ZCZC W09 10 L16 Assignment #6: Update log
+ZCZC W09 10 L17 Assignment #7: Make SHA256SUM and sign it
+ZCZC W09 150 L05 GSGS Related
+ZCZC W09 30 L23 Discord: POP QUIZ W09
+ZCZC W09 60 L06 Reading References/Books/Documents
